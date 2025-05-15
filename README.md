@@ -1,4 +1,4 @@
- # 🐾 PetZone - Full Stack Pet Shop Web App (MERN + Vite)
+ # 🐾 PetVerse - Full Stack Pet Shop Web App (MERN + Vite)
 
 PetZone is a modern full-stack web application for a pet shop, built using the MERN stack (MongoDB, Express.js, React with Vite, Node.js). This project allows users to browse pets, view pet details, and perform admin functionalities like managing inventory.
 
